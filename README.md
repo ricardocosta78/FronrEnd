@@ -23,3 +23,19 @@ git log --> mostra as informações de todos os commit feitos
 git show CODIGOCOMMIT--> apresenta as alterações efetuadas no commit do código fornecido
 
 git show --> apresenta as alterações efetuadas no último commit
+
+git branch NOME --> cria uma nova branch
+
+git branch --> mostra as branch existentes
+
+git checkout NOME --> troca para a branch NOME
+
+git merge NOME --> estando numa branch acrescenta as funcionalidades da branch NOME à atual
+
+git branch -D NOME --> elimina a branch NOME
+
+git remote add origin LINK --> liga o repositório atual local a um repositório online
+
+git push -u origin master --> envia a branch master para o repositório online (necessário apenas no primeiro envio)
+
+git push --> enviar o repositório atual local para o repositório online
