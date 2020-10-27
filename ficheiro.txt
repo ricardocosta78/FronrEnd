@@ -1,1 +1,3 @@
 Alteracao a Nova Funcionalidade do projecto atraves do repositorio
+
+Mas preciso deste jeito tambem. atraves do IDE.
